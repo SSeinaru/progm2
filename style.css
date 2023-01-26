@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{text-align: center}
+.img{
+    position:center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    height:600px;
+    width:429px;
+}
+
+
+#container{
+    display:inline-block;
+    width:320px; 
+    height:480px;
+    margin: 0 auto; 
+    position:relative;}
+
+#canvas1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
